@@ -1,6 +1,7 @@
 Kawauso
 ======
 A Simple Otter Example Deployed on Heroku
+
 Visit http://kawauso.herokuapp.com
 
 Prerequisite
