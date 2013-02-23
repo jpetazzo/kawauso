@@ -1,0 +1,15 @@
+{
+  "name": "otter-example",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Ben Firshman <ben@firshman.co.uk>",
+  "main": "",
+  "dependencies" : {
+    "otter": ""
+  },
+  "license": "BSD",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
+
