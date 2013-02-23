@@ -1,1 +1,1 @@
-web: ./node_modules/.bin/otter -a api.twitter.com ./app/
+web: ./node_modules/.bin/otter -a api.twitter.com -p $PORT ./app/
