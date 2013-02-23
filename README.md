@@ -75,3 +75,7 @@ Deploy
 ```
 $ git push heroku master
 ```
+
+Why the funny name?
+------
+川獺(kawauso) means otter in Japanese
